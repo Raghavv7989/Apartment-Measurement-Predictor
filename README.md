@@ -4,9 +4,7 @@ Automate rapid measurement of a building's real-world **height**, **width**, and
 
 ---
 
-## 📷 Example
 
-![example](./images/example_apartment.jpg)
 
 The system overlays:
 - **Blue bar:** Length (height)
@@ -86,7 +84,7 @@ Blue and yellow lines appear directly on the image for easy validation.
 
 ## License
 
-MIT License © [Your Name]
+MIT License © Raghavv7989
 
 ---
 
